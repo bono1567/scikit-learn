@@ -9,6 +9,7 @@ from .rbm import BernoulliRBM
 
 from .multilayer_perceptron import MLPClassifier
 from .multilayer_perceptron import MLPRegressor
+from .
 
 __all__ = ["BernoulliRBM",
            "MLPClassifier",
